@@ -42,3 +42,5 @@ if (!defined('CAKE_CORE_INCLUDE_PATH')) {
 
 
 echo 'add by b3';
+
+echo 'abb by b2 _2';
