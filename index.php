@@ -29,6 +29,8 @@ define('ROOT', dirname(__FILE__));
 define('WEBROOT_DIR', 'webroot');
 define('WWW_ROOT', ROOT . DS . APP_DIR . DS . WEBROOT_DIR . DS);
 
+echo 'add by b2';
+
 /**
  * This only needs to be changed if the "cake" directory is located
  * outside of the distributed structure.
