@@ -39,3 +39,4 @@ if (!defined('CAKE_CORE_INCLUDE_PATH')) {
 }
 
 
+echo 'add by b3';
